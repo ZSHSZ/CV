@@ -1,0 +1,11 @@
+https://github.com/geniusrise/awesome-healthcare-datasets?tab=readme-ov-file#dermatology
+https://universe.roboflow.com/fy-project-y9ecd/cataract-detection-viwsu
+https://universe.roboflow.com/parin-kittipongdaja-vwmn3/skin-problem-multilabel
+https://universe.roboflow.com/medical-wmypr/tongue-tod5c
+https://universe.roboflow.com/ctufinalthesis/drowsinessdetectionyolov8-test2
+https://universe.roboflow.com/azfar-is9rm/mental-health-detection
+https://universe.roboflow.com/king-nglug/anemia-ti0ls
+https://universe.roboflow.com/aitech-a6cge/eye-ryx7r
+https://universe.roboflow.com/testing-rfihx/facial-health
+https://universe.roboflow.com/bangkit-academy-rnfpg/acne-detection-g5vvz
+https://universe.roboflow.com/projects-01bf0/skin-disease-s31kc
